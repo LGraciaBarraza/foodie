@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie (0.1.0)
+    foodietest123 (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -9,11 +9,11 @@ GEM
     rake (13.0.6)
 
 PLATFORMS
-  arm64-darwin-21
+  ruby
 
 DEPENDENCIES
-  foodie!
+  foodietest123!
   rake (~> 13.0)
 
 BUNDLED WITH
-   2.4.10
+   1.17.2
